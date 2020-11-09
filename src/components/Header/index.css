@@ -1,0 +1,9 @@
+.header {
+  display: flex;
+  flex-direction: row;
+}
+
+.header .item {
+  margin: 0 10px;
+  cursor: pointer;
+}

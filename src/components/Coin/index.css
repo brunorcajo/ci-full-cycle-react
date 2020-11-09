@@ -1,0 +1,13 @@
+.coin {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.coin.down {
+  color: red;
+}
+
+.coin.up {
+  color: green;
+}
